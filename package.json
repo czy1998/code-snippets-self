@@ -1,6 +1,6 @@
 {
-    "name": "code-snippets",
-    "displayName": "code-snippets",
+    "name": "code-snippets-self",
+    "displayName": "code-snippets-self",
     "description": "一些注释的代码片段的集合",
     "version": "0.0.1",
     "engines": {
@@ -9,12 +9,13 @@
     "categories": [
         "Other"
     ],
+    "publisher": "CandyLover",
     "activationEvents": [],
     "main": "./out/extension.js",
     "contributes": {
         "commands": [
             {
-                "command": "code-snippets.helloWorld",
+                "command": "code-snippets-self.helloWorld",
                 "title": "Hello World"
             }
         ],
