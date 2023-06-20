@@ -2,7 +2,7 @@
     "name": "code-snippets-self",
     "displayName": "code-snippets-self",
     "description": "一些注释的代码片段的集合",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.79.0"
     },
