@@ -17,6 +17,20 @@
                 "command": "code-snippets.helloWorld",
                 "title": "Hello World"
             }
+        ],
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            }
         ]
     },
     "scripts": {

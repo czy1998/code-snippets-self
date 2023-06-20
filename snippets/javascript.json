@@ -1,0 +1,30 @@
+{
+    "page-note": {
+        "prefix": "page",
+        "body": [
+            "/**",
+            " * @title ${1: 标题}",
+            " * @pagePath ${2: 页面地址}",
+            " * @router ${3: 路由}",
+            " * @description ${4: 具体介绍}",
+            "*/"
+        ],
+        "description": "页面头部规范"
+    },
+    "components-note": {
+        "prefix": "Com",
+        "body": ["/**", " * @title ${1: 标题}", " * @description ${2: 具体介绍}", "*/"],
+        "description": "组件头部规范"
+    },
+    "function-notes": {
+        "prefix": "func",
+        "body": [
+            "/**",
+            " * @description ${1: 具体介绍}",
+            " * @param ${2: 变量}",
+            " * @return ${3: 返回结果}",
+            "*/"
+        ],
+        "description": "函数头部规范"
+    }
+}
