@@ -1,9 +1,22 @@
 # Change Log
 
-All notable changes to the "code-snippets-self" extension will be documented in this file.
+<!--
+  💄 更新UI和样式文件
+  ✨ 引入新功能
+  🐛 修复bug
+  🚑 添加重要补丁
+  🎨 改进代码结构/代码格式
+  📦 引入新文件/或者新功能
+  ✅ 增加测试代码
+  📖 添加/更新文档
+  🚀 发布新版本
+  👌 提高性能/优化
+  🔧 修改配置文件
+  🌐 多语言/国际化
+ -->
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 2023-06-30
 
-## [Unreleased]
+`2023-06-30`
 
-- Initial release
+- ✨ 新增 `hera-time`、`hera-fileInfo` 片段，新增 `cmd+k 1` 快捷键触发事件
